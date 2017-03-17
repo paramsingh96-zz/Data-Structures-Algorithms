@@ -8,3 +8,4 @@
 ##### 6. Tree: <url><a href="https://github.com/paramsingh96/Algorithms/blob/master/source/bst.c">Binary Search Tree</url></a>
 ##### 7. Hash Table: <url><a href="https://github.com/paramsingh96/Algorithms/blob/master/source/lprobing.c">Linear Probing</url></a> | <url><a href="https://github.com/paramsingh96/Algorithms/blob/master/source/schaining.c">Seperate Chaining</url></a>
 #### More to come. :) 
+#### -Param
