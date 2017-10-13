@@ -29,6 +29,6 @@ int main()
 	int re;
 	scanf("%d",&re);
 	lsearch(a,n,re);
-	
+	return 0;
 }
 
