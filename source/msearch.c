@@ -28,6 +28,6 @@ int main()
 	int re;
 	scanf("%d",&re);
 	msearch(a,n,re);
-	
+	return 0;
 }
 

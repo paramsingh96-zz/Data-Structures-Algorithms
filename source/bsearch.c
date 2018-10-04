@@ -39,6 +39,6 @@ int main()
 	int re;
 	scanf("%d",&re);
 	bsearch(a,n,re);
-	
+	return 0;	
 }
 

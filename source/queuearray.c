@@ -88,5 +88,6 @@ int main()
 			default: printf("--Invalid Choice--\n");
 		}
 	}
+	return 0;
 	
 }
